@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "NuyCans",
+  "author": "MhankBarBar",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -46,10 +46,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancabot/NuyCans.git"
+    "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
   },
   "bugs": {
-    "url": "https://github.com/mancabot/NuyCans/issues"
+    "url": "https://github.com/mhankbarbar/termux-wabot/issues"
   },
-  "homepage": "https://github.com/mancabot/NuyCans#readme"
+  "homepage": "https://github.com/mhankbarbar/termux-wabot#readme"
 }
